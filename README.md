@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**saraaboualknj/saraaboualknj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at the **University of Doha for Science and Technology (UDST)**, working where software meets biology.
 
-Here are some ideas to get you started:
+### 🔬 Research
+- **Molecular dynamics training pipeline**: building accessible MD workflows for in-silico drug development (QRDI-funded, UREP Cycle 31)
+- **Protein sonification**: turning biomolecules into sound using Arabic and Western musical scales (QRDI-funded, UREP Cycle 32)
+- **Viral sequence analysis**: DiMA research program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+**Languages:** Python · Java (OOP) · HTML · CSS · JavaScript
+**Development:** Front-end · Back-end · Git
+**Research:** GROMACS · Molecular dynamics · Bioinformatics
+
+### 🌍 Languages
+Turkish · Arabic · English
+
+### 📫 Find me
+[ORCID](https://orcid.org/0009-0009-0361-0326) 
